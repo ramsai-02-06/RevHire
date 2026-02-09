@@ -1,0 +1,1 @@
+change the db username password and db link in ur machine
